@@ -119,6 +119,8 @@ struct {
 	{  17,     KEY_DOWN     },
 	{  23,     KEY_LEFTCTRL },   // A/Fire/jump/primary
 	{   7,     KEY_LEFTALT  },   // B/Bomb/secondary
+	{   8,     KEY_R        },   // R/Select/Credit
+	{  11,     KEY_Q        },   // Q/Start
 	// For credit/start/etc., use USB keyboard or add more buttons.
 	{  -1,     -1           } }; // END OF LIST, DO NOT CHANGE
 
